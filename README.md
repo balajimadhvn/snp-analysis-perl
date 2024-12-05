@@ -64,10 +64,6 @@ Contributions are welcome! If you have suggestions, feature requests, or want to
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the (LICENSE) file for details.
 ```
 
-### Notes:
-- Replace `<repository-url>` and `<repository-name>` with the actual URL and name of your GitHub repository.
-- Ensure that you have a `LICENSE` file in your repository that specifies the terms of use for your project.
-- This README provides a structured overview of your project, including its purpose, how to use it, and how others can contribute. Adjust the content as needed to fit your specific implementation and project details.
