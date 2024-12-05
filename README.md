@@ -7,7 +7,7 @@ This Perl script is designed for analyzing Single Nucleotide Polymorphism (SNP) 
 
 ## Features
 
-- **Read VCF Files:** Parses SNP data from VCF files.
+- Read VCF Files:** Parses SNP data from VCF files.
 - **Calculate Genotype Frequencies:** Computes genotype frequencies for each SNP across samples.
 - **Simple and Extendable:** Easily extendable for additional SNP analyses and visualizations.
 
