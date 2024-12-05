@@ -1,5 +1,3 @@
-Certainly! Here's the entire README file content in Markdown format for your SNP Analysis Tool in Perl. You can copy and paste this directly into your README.md file on GitHub:
-
 ```markdown
 # SNP Analysis Tool in Perl
 
